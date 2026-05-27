@@ -205,8 +205,8 @@ def pick_closest_object(waste_tons):
     )
 
 st.write("""
-Here is the simulator to help like yourself to understand how the food waste can increase depending on multiple factors including sales and profit.
-The question is, can you make a difference in sales and work with the other components in order to reduce the food waste and help the hunger? Is it possible?
+Here is the simulator to help to understand how the food waste can increase depending on multiple factors including sales and profit.
+The question is, can you make a difference in sales and work with the other components in order to reduce the food waste and help with the hunger? Is it possible?
 """)
 
 # -----------------------------
